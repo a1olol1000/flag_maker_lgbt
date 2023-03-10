@@ -1,0 +1,25 @@
+body{
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+form .answear{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+form .answear1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+form .answear2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+form label {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
